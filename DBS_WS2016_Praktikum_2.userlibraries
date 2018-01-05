@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="sqlite-jdbc-3.15.1">
+    <archive path="/Users/alex/Documents/IntelliJ/DBS_WS2016_Praktikum_2/lib/sqlite-jdbc-3.15.1.jar" />
+  </library>
+</eclipse-userlibraries>
+

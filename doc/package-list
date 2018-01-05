@@ -1,0 +1,12 @@
+com.alexanderthelen.applicationkit
+com.alexanderthelen.applicationkit.database
+com.alexanderthelen.applicationkit.gui
+com.watchandchill
+com.watchandchill.gui
+com.watchandchill.table.account
+com.watchandchill.table.concerns
+com.watchandchill.table.genre
+com.watchandchill.table.movies
+com.watchandchill.table.serials
+com.watchandchill.table.users
+com.watchandchill.table.watchlists
